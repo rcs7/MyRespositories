@@ -1,0 +1,49 @@
+body{
+    background-color: cadetblue;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+.details{
+    padding-bottom: 16px;
+}
+
+.details label:first-child{
+    font-weight: bold;
+}
+
+.details span:first-child{
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+.details p:first-child{
+    font-weight: bold;
+    text-align: center;
+    color: red;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.form p{
+    color: blue;
+    font-weight: bold;
+}
+body > div
+{           margin-left: auto;
+            margin-right: auto;
+            
+            width:900px;
+            height:600;
+            background:#676470;
+            transition:all 0.3s ease;
+}
+

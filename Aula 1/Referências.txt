@@ -1,0 +1,5 @@
+https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript/Objetos/Object-oriented_JS
+
+https://developer.mozilla.org/pt-BR/docs/Aprender/CSS/Introduction_to_CSS/sintaxe
+
+https://developer.mozilla.org/pt-BR/docs/Aprender/HTML/Introducao_ao_HTML/Getting_started
